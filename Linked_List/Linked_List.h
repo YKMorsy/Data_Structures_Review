@@ -5,7 +5,7 @@ class Node
 {
 public:
     // value of node and pointer to next node
-    double value;
+    int value;
     Node *next;
 
     Node()
